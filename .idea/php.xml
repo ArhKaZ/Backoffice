@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Backoffice/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/slim/psr7" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/composer" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/Backoffice/vendor/ralouphie/getallheaders" />
+    </include_path>
+  </component>
+</project>
